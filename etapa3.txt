@@ -1,0 +1,31 @@
+**Tarefa**: Gere um relatório detalhado para a Etapa 03 do projeto, com base na descrição a seguir. O relatório deve incluir todos os pontos-chave da etapa, organizados de forma clara e concisa, ressaltando a importância da aprovação dos serviços e do relacionamento com o cliente.
+
+**Descrição da Etapa 03**:
+A Etapa 03 ocorre até 5 dias após a conclusão da Etapa 01. Durante esta etapa, o cliente recebe três amostras de logo para aprovação, e a equipe apresenta as opções recebidas do time de design. Além disso, uma lista de produtos minerados é enviada ao cliente. Esta etapa consiste na aprovação dos dois serviços concluídos, que são o logo e a lista de produtos.
+
+**Objetivos a serem abordados no relatório**:
+1. **Aprovação do logo**:
+   - O cliente deve aprovar uma das amostras de logo. Caso o cliente solicite ajustes, estes serão entregues em até 24 horas.
+
+2. **Aprovação da lista de produtos minerados**:
+   - O cliente deve aprovar a lista de produtos minerados e definir a precificação para o cadastro dos produtos na loja.
+
+3. **Relacionamento para esclarecimento de dúvidas**:
+   - Manter um contato próximo com o cliente para esclarecer dúvidas e ajudar na definição de dois produtos que serão a base para a criação de anúncios de marketing e banners da loja.
+
+**Modelo de Resumo a ser incluído no relatório**:
+---
+Olá, João!
+
+Finalizamos a Etapa 03 e estamos prontos para seguir para a Etapa 04. Aqui estão os pontos abordados nesta terceira etapa:
+
+1. **Aprovação do Logo**: (Aqui a definição do logo escolhido)
+2. **Aprovação da lista de produtos**: (Link da lista e registro no grupo de: Aprovado)
+3. **Definição da margem de lucro na precificação**: (Aqui a % escolhida pelo cliente)
+4. **Escolha dos 2 produtos para anúncio / banners**: (Aqui os 2 produtos escolhidos)
+
+Essas foram as definições da terceira etapa. Agora, seguiremos para o desenvolvimento da loja. Em breve, alinharei com você a data da call de apresentação da loja. Se tiver alguma dúvida, estou à disposição para te auxiliar!
+
+---
+
+**Ação**: Analise o histórico de conversas no Whatsapp e crie o relatório com base nas informações e objetivos descritos acima, garantindo que cada seção esteja clara e compreensível para o cliente.

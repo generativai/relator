@@ -1,0 +1,30 @@
+**Tarefa**: Gere um relatório detalhado para a Etapa 02 do projeto, com base na descrição a seguir. O relatório deve incluir todos os pontos-chave da etapa, organizados de forma clara e concisa, ressaltando a importância do contato contínuo e do relacionamento com o cliente. 
+
+**Descrição da Etapa 02**:
+A Etapa 02 ocorre 2 dias após a finalização da Etapa 01. Durante esta etapa, o time deve entrar em contato com o cliente pelo grupo, garantindo que o relacionamento permaneça próximo e ativo, evitando longos períodos sem comunicação. O objetivo do contato é confirmar a criação das contas de Facebook e Instagram pelo cliente e obter as informações de login. Também será informado ao cliente sobre o andamento do desenvolvimento do logo e da mineração de produtos, que deve estar em fase de finalização.
+
+**Objetivos a serem abordados no relatório**:
+1. **Contato com o cliente**:
+   - Destacar a importância de manter o relacionamento próximo e disponível para esclarecimentos de dúvidas.
+
+2. **Confirmação das contas de Facebook e Instagram**:
+   - Auxiliar o cliente na confirmação das contas criadas e solicitar os dados de login e senha.
+
+3. **Informar sobre o desenvolvimento do logo e mineração de produtos**:
+   - Atualizar o cliente sobre a finalização da etapa de desenvolvimento do logo e a mineração de produtos, informando que ambos devem estar em finalização.
+
+**Modelo de Resumo a ser incluído no relatório**:
+---
+Olá, João! 
+
+Estamos entrando em contato para manter nosso relacionamento próximo e garantir que estamos sempre disponíveis para você. Aqui estão os pontos que queremos confirmar nesta etapa:
+
+1. **Contato feito**: Estamos sempre à disposição para esclarecer dúvidas e ajudar no que for necessário.
+2. **Contas do Facebook e Instagram**: Por favor, confirme se as contas foram criadas e envie os logins e senhas para que possamos integrar.
+3. **Desenvolvimento do logo e mineração de produtos**: Informamos que a etapa de desenvolvimento do logo e a mineração de produtos estão em fase de finalização. 
+
+Agradecemos pela colaboração e estamos aqui para te apoiar em qualquer dúvida ou necessidade!
+
+---
+
+**Ação**: Analise o histórico de conversas no Whatsapp e crie o relatório com base nas informações e objetivos descritos acima, garantindo que cada seção esteja clara e compreensível para o cliente.

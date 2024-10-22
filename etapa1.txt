@@ -1,0 +1,72 @@
+**Tarefa**: Gere um relatório detalhado para a Etapa 01 do projeto, com base na descrição a seguir. O relatório deve incluir todos os pontos-chave da etapa, organizados de forma clara e concisa, ressaltando as definições e informações relevantes que devem ser comunicadas ao cliente. Certifique-se de que o relatório aborde cada item listado e destaque a importância de um relacionamento próximo e proativo com o cliente. 
+
+**Descrição da Etapa 01**:
+A Etapa 01 ocorre em até 48 horas após a abertura do grupo do cliente. Durante esta etapa, o cliente e o time de desenvolvimento devem estabelecer um relacionamento próximo, garantindo que as expectativas, que foram elevadas pela equipe de vendas, sejam mantidas. A comunicação deve ser rápida e efetiva, promovendo um ambiente de troca de ideias e proximidade entre o atendimento e o cliente.
+
+**Objetivos a serem abordados no relatório**:
+1. **Relacionamento com o time de atendimento inicial**: 
+   - Incluir uma seção de boas-vindas ao cliente.
+
+2. **Entendimento do processo de desenvolvimento**:
+   - O time deve enviar um cronograma com prazos e etapas em imagem.
+   - É fundamental registrar uma breve explicação sobre as etapas e prazos, enfatizando a importância da comunicação contínua e do fornecimento de informações pelo cliente.
+
+3. **Envio do cronograma de acompanhamento do projeto**:
+   - O cronograma deve ser compartilhado no grupo para acompanhamento.
+
+4. **Definição do nicho de atuação da loja virtual**:
+   - Listar as opções de nichos disponíveis, como moda feminina, eletrônicos, etc.
+
+5. **Definição de categorias de produtos**:
+   - O cliente deve escolher de 1 a 5 categorias após definir o nicho.
+
+6. **Referência de layout ou loja**:
+   - Sugerir templates disponíveis ou estilos de grandes lojas do mercado.
+
+7. **Definição de cores da loja**:
+   - Indicar o tom das cores escolhidas pelo cliente.
+
+8. **Estilo do logo**:
+   - Definir o ícone ou referência de desenho para a identidade visual da marca.
+
+9. **Estilo da fonte**:
+   - Especificar o estilo da fonte a ser usada, com referência enviada pelo cliente.
+
+10. **Plataformas de integração**:
+    - Listar as plataformas a serem configuradas, com exemplos específicos.
+
+11. **Acesso às redes sociais**:
+    - Destacar que o cliente deve fornecer acesso às contas de Instagram e Facebook até o final da segunda etapa.
+
+12. **Confirmação da conta em plataforma de loja virtual**:
+    - Esclarecer a importância de informar acessos se o cliente já tiver uma conta.
+
+13. **Definição do domínio da loja**:
+    - Confirmar o domínio a ser utilizado e a necessidade de informar acessos se já estiver registrado.
+
+14. **Finalização da etapa**:
+    - Incluir um resumo do que foi definido e discutido.
+
+**Modelo de Resumo a ser incluído no relatório**:
+---
+João, finalizamos a etapa 01 de definições e agora seguiremos para a etapa 02. Segue abaixo o que foi discutido nesta primeira etapa:
+
+1. Apresentação do time de desenvolvimento responsável pelo seu projeto.
+2. Apresentação do cronograma e explicação dos prazos e etapas.
+3. Nicho definido de atuação: (Nicho escolhido pelo cliente).
+4. Definição das categorias de produtos: (1 a 5 categorias escolhidas).
+5. Loja de referência: (Domínios de lojas a serem seguidas como referência).
+6. Cores da marca: (Definição de até 3 cores para o desenvolvimento).
+7. Ícone do logo: (Ícone ou referência de desenho para o logo).
+8. Fonte da logo: (Definição do estilo de fonte com referência).
+9. Plataformas de integração na loja virtual:
+   - Plataforma de pagamento: (Plataforma escolhida).
+   - Plataforma de fornecedores: (Plataforma escolhida).
+   - Plataforma da loja virtual: (Plataforma escolhida).
+10. Login do Facebook e Instagram: (Aguardaremos o envio para integração).
+11. Domínio da loja: (Domínio definido).
+
+Essas foram as definições da primeira etapa. Agora, seguiremos com a etapa de desenvolvimento de logo e mineração de produtos. Estou à disposição para auxiliar com qualquer dúvida.
+---
+
+**Ação**: Analise o histórico de conversas no Whatsapp e crie o relatório com base nas informações e objetivos descritos acima, garantindo que cada seção esteja clara e compreensível para o cliente. 

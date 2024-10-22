@@ -1,0 +1,33 @@
+**Tarefa**: Gere um relatório detalhado para a Etapa Final do projeto, com base na descrição a seguir. O relatório deve incluir todos os pontos-chave da etapa, organizados de forma clara e concisa, ressaltando os objetivos da call de conclusão e finalização do projeto.
+
+**Descrição da Etapa Final**:
+Na Etapa Final, considerada a última etapa do projeto, será feito o agendamento da call de conclusão e finalização do projeto. Esta call será conduzida pelo atendente responsável e pelo gestor de marketing. O foco da call terá 3 objetivos principais:
+
+1. **Efetivação da Entrega da Loja**:
+   - Concluir a entrega da loja e esclarecer todas as dúvidas do cliente para a pós-finalização total do projeto, utilizando um script padrão com os assuntos.
+
+2. **Auxílio para Melhoria das Campanhas**:
+   - Oferecer suporte para a melhoria e otimização das campanhas de marketing, visando melhorar os resultados iniciais.
+
+3. **Serviços Complementares e Suporte Continuado**:
+   - Apresentar serviços complementares e vender o suporte continuado com assessoria de marketing.
+
+**Importante**: Para garantir 100% de sucesso na etapa e na conclusão do projeto, os seguintes pontos devem estar finalizados:
+
+1. **Call Final Realizada**: (link da call que foi feita e gravada)
+2. **Envio do Relatório Final e Geral do Projeto**: (Relatório padrão Full)
+
+**Modelo de Resumo a ser incluído no relatório**:
+---
+Olá, João!
+
+Finalizamos o seu projeto com a Etapa Final. Abaixo estão os pontos abordados durante a call de conclusão:
+
+1. **Call Final realizada**: (link da call que foi feita e gravada).
+2. **Envio do Relatório Final e Geral do Projeto**: (Link para o relatório padrão Full).
+
+Agradecemos pela sua confiança e esperamos que os resultados do projeto atendam às suas expectativas. Se precisar de qualquer assistência adicional ou estiver interessado em serviços complementares e suporte continuado, estamos à disposição!
+
+---
+
+**Ação**: Analise o histórico de conversas no Whatsapp e crie o relatório com base nas informações e objetivos descritos acima, garantindo que cada seção esteja clara e compreensível para o cliente.

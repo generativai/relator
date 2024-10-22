@@ -1,0 +1,31 @@
+**Tarefa**: Gere um relatório detalhado para a Etapa 04 do projeto, com base na descrição a seguir. O relatório deve incluir todos os pontos-chave da etapa, organizados de forma clara e concisa, ressaltando a importância do agendamento das calls e do relacionamento com o cliente.
+
+**Descrição da Etapa 04**:
+A Etapa 04 ocorre 1 dia após a finalização da Etapa 03. Durante esta etapa, o time fará contato pelo grupo com o cliente para definir a data da Call de apresentação da loja virtual e a Call de alinhamento de marketing com o gestor de tráfego. Ambas as calls terão alinhamento de projeto, com abertura para dúvidas nos seus respectivos temas.
+
+**Objetivos a serem abordados no relatório**:
+1. **Agendamento da Call de Apresentação da Loja**:
+   - O cliente deve ser informado sobre a necessidade de agendar a call, que será registrada no Google Meet.
+   
+2. **Agendamento da Call de Marketing**:
+   - O cliente deve ser informado sobre a necessidade de agendar a call de alinhamento de marketing, que também será registrada no Google Meet.
+
+**Importante**: Para garantir 100% de sucesso na etapa concluída, é necessário que as seguintes etapas estejam finalizadas:
+- **Call de apresentação da loja agendada**: prazo máximo até 2 dias após o contato.
+- **Call de marketing agendada**: prazo máximo até 5 dias após o contato.
+
+**Modelo de Resumo a ser incluído no relatório**:
+---
+Olá, João!
+
+Estamos na Etapa 04 e precisamos agendar duas calls importantes para o avanço do projeto. Aqui estão os pontos que precisamos abordar:
+
+1. **Call de apresentação da loja**: Agendaremos essa call para apresentar todos os detalhes da loja virtual. Prazo máximo para agendamento: 2 dias após nosso contato.
+   
+2. **Call de marketing**: Precisamos também agendar a call de alinhamento com o gestor de tráfego. Prazo máximo para agendamento: 5 dias após nosso contato.
+
+Por favor, me informe suas disponibilidades para que possamos agendar as calls com antecedência e garantir que todos os tópicos sejam discutidos. Se tiver alguma dúvida, estou à disposição para te auxiliar!
+
+---
+
+**Ação**: Analise o histórico de conversas no Whatsapp e crie o relatório com base nas informações e objetivos descritos acima, garantindo que cada seção esteja clara e compreensível para o cliente.
